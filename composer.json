@@ -1,0 +1,17 @@
+{
+    "name": "cedextech/trait-generator",
+    "description": "A Laravel Generator For Creating New Traits",
+    "license": "MIT",
+    "authors": [{
+        "name": "Kiran K",
+        "email": "kiran@cedextech.com"
+    }],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Cedextech\\TraitGenerator": "src/"
+        }
+    }
+}
