@@ -5,7 +5,7 @@ Laravel Generator For Creating New Traits
 
 Install using composer
 ```
-composer require cedextech/trait-generator
+composer require cedextech/trait-generator --dev
 ```
 
 Add the service provider, open `config/app.php`, and add a new item to the providers array.
